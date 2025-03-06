@@ -1,0 +1,5 @@
+GUI r
+DELAY 500
+STRING shutdown
+DELAY 500
+ENTER
