@@ -1,3 +1,4 @@
+REM made by tommyfart
 GUI r
 DELAY 500
 STRING shutdown
